@@ -1,0 +1,154 @@
+[
+    {
+        "id": "2B278CC7-80A5-4B4C-B6CE-6A02B14A2F85",
+        "name": "Toyota",
+        "items": [
+            {
+                "id": "0BA7A61F-4E6D-4A01-9026-42C849987CFA",
+                "name": "Supra",
+                "photoCredit": "Toyota Media",
+                "price": 55000,
+                "restrictions": ["G"],
+                "description": "The Supra blends iconic Japanese design with cutting-edge engineering. Twin-turbo inline-six, rear-wheel drive thrills."
+            },
+            {
+                "id": "C13FEA69-5E99-4F85-A5C5-1B6D66251DC0",
+                "name": "GR86",
+                "photoCredit": "Toyota Media",
+                "price": 32000,
+                "restrictions": ["G", "M"],
+                "description": "The GR86 offers pure driving fun with a lightweight chassis, rear-wheel drive, and a naturally aspirated flat-four engine."
+            },
+            {
+                "id": "B870E347-C35E-4074-B161-2EBF0C4D753E",
+                "name": "GR Yaris",
+                "photoCredit": "Toyota Europe",
+                "price": 39000,
+                "restrictions": ["G", "A", "AWD"],
+                "description": "The rally-inspired GR Yaris features a turbocharged 3-cylinder engine and all-wheel drive for ultimate grip and agility."
+            },
+            {
+                "id": "F79D9C9F-A80B-4970-BD7F-1C4F23A7142A",
+                "name": "Celica GT-Four (Concept)",
+                "photoCredit": "Toyota Concepts",
+                "price": 58000,
+                "restrictions": ["G", "AWD"],
+                "description": "Rumored for a concept revival, the Celica GT-Four features modern tech, AWD, and turbocharged performance true to its rally heritage."
+            }
+        ]
+    },
+    {
+        "id": "0D74B43B-4D36-48B4-94AD-02B27C5E625D",
+        "name": "BMW",
+        "items": [
+            {
+                "id": "7C3E09BD-8B3C-47A6-92E7-30C2E7A81934",
+                "name": "M2",
+                "photoCredit": "BMW AG",
+                "price": 62000,
+                "restrictions": ["G", "L"],
+                "description": "The BMW M2 offers a compact body with a huge punch — turbocharged performance and precision German handling."
+            },
+            {
+                "id": "E7AD1990-7BF1-4F88-B13F-C9C6AC04A2D4",
+                "name": "M4",
+                "photoCredit": "BMW M",
+                "price": 75000,
+                "restrictions": ["G", "A"],
+                "description": "The M4 combines luxury with aggression — straight-six power, track-focused chassis, and bold design."
+            },
+            {
+                "id": "A18BBA5A-72A2-432D-8E01-2375B21BC9B5",
+                "name": "Z4",
+                "photoCredit": "BMW Roadsters",
+                "price": 55000,
+                "restrictions": ["G", "C"],
+                "description": "The BMW Z4 is a sleek, open-top roadster with balanced performance and stylish cruising appeal."
+            },
+            {
+                "id": "7E9858AA-45BD-4B84-8450-903A6C09E58F",
+                "name": "i8",
+                "photoCredit": "BMW i",
+                "price": 140000,
+                "restrictions": ["E", "A", "Hybrid"],
+                "description": "The i8 is a futuristic hybrid sports car blending electric torque and turbocharged power with a carbon fiber chassis."
+            }
+        ]
+    },
+    {
+        "id": "0DAAF45A-7B8D-4F6A-A3CF-2CF9F4CA9B01",
+        "name": "Porsche",
+        "items": [
+            {
+                "id": "51AC1BB3-7AA0-497D-91F3-0D0D7BC6D42A",
+                "name": "911",
+                "photoCredit": "Porsche Press",
+                "price": 115000,
+                "restrictions": ["G"],
+                "description": "Porsche 911 is the definition of heritage and performance. Flat-six engine, timeless curves, unmatched track capability."
+            },
+            {
+                "id": "E6C6EFA4-B1BB-4010-A5C6-C9C1BC08D14F",
+                "name": "718 Cayman",
+                "photoCredit": "Porsche Media",
+                "price": 68000,
+                "restrictions": ["G", "M"],
+                "description": "Mid-engine balance and sleek design make the 718 Cayman a driver's dream. Sharp handling and thrilling power."
+            },
+            {
+                "id": "2BA6C5E9-C7A4-4F9C-BE1C-F6E84185A614",
+                "name": "Taycan Turbo",
+                "photoCredit": "Porsche EV",
+                "price": 155000,
+                "restrictions": ["E", "A"],
+                "description": "Porsche's electric revolution — the Taycan Turbo delivers instant torque, luxury, and iconic performance with zero emissions."
+            },
+            {
+                "id": "FCA6715E-BE5B-4391-8AD3-90C1D356E1CB",
+                "name": "918 Spyder",
+                "photoCredit": "Porsche Heritage",
+                "price": 850000,
+                "restrictions": ["Hybrid", "L"],
+                "description": "The 918 Spyder is a hypercar masterpiece — combining electric motors and a V8 engine for mind-bending speed and efficiency."
+            }
+        ]
+    },
+    {
+        "id": "1A78AC64-9088-4765-A6D1-94F33A3E0FC2",
+        "name": "Honda",
+        "items": [
+            {
+                "id": "D235EB44-9A45-4A5C-BAF3-DF92F8202A69",
+                "name": "Civic Type R",
+                "photoCredit": "Honda Newsroom",
+                "price": 45000,
+                "restrictions": ["G", "M"],
+                "description": "The Civic Type R continues Honda's tradition of high-revving, front-wheel-drive performance with sharp looks and manual shifting."
+            },
+            {
+                "id": "13B91B83-CE26-4E67-8E2C-35B80A749C30",
+                "name": "S2000",
+                "photoCredit": "Honda Heritage",
+                "price": 34000,
+                "restrictions": ["G", "M", "C"],
+                "description": "Lightweight and high-revving, the S2000 roadster is a purist’s dream. Legendary for its handling and open-top thrills."
+            },
+            {
+                "id": "BC5FC8CB-8F8D-4F70-8E76-DA1CBF08B95D",
+                "name": "NSX",
+                "photoCredit": "Honda Performance",
+                "price": 169000,
+                "restrictions": ["Hybrid", "A"],
+                "description": "The NSX blends hybrid tech with mid-engine performance, delivering both speed and innovation in an exotic package."
+            },
+            {
+                "id": "2DB01B89-7F22-4494-8CF3-EF7A9447FC3C",
+                "name": "Integra Type S",
+                "photoCredit": "Honda Press",
+                "price": 43000,
+                "restrictions": ["G", "M"],
+                "description": "Precision-tuned for performance, the Integra Type S redefines the modern sport compact with responsive handling and turbocharged power."
+            }
+        ]
+    }
+]
